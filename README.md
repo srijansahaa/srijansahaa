@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Developer and a Designer. Well versed in the skills listed below:
+I am a __Developer__ and a __Designer__. Well versed in the skills listed below:
 1. Next JS
 2. React JS
 3. HTML5/CSS3
@@ -26,3 +26,5 @@ I have worked on many frontend devlopement projects. Interested to know more? �
 
 💻 - [wwww.srijansaha.tech](https://www.srijansaha.tech/)
 📨 - [contact@srijansaha.tech](mailto:contact@srijansaha.tech)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=srijansahaa)
