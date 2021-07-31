@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, my name is Srijan Saha👋, 
 
 <!--
 **srijansahaa/srijansahaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Developer and a Designer. Well versed in the skills listed below:
+1. Next JS
+2. React JS
+3. HTML5/CSS3
+4. Bootstrap
+5. Tailwind CSS
+
+I have worked on many frontend devlopement projects. Interested to know more? 😄
+
+💻 - [wwww.srijansaha.tech](https://www.srijansaha.tech/)
+📨 - [contact@srijansaha.tech](mailto:contact@srijansaha.tech)
+📞 - [+91-8225808241](tel:8225808241)
