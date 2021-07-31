@@ -26,4 +26,3 @@ I have worked on many frontend devlopement projects. Interested to know more? �
 
 💻 - [wwww.srijansaha.tech](https://www.srijansaha.tech/)
 📨 - [contact@srijansaha.tech](mailto:contact@srijansaha.tech)
-📞 - [+91-8225808241](tel:8225808241)
