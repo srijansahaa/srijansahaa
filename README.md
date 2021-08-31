@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a __Developer__ and a __Designer__. Well versed in the skills listed below:
+I am a __developer__ and a __designer__. Well versed in the skills listed below:
 1. Next JS
 2. React JS
 3. HTML5/CSS3
