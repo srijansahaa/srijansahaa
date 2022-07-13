@@ -25,6 +25,6 @@ I am a __developer__ and a __designer__. Well versed in the skills listed below:
 I have worked on many frontend devlopement projects. Interested to know more? 😄
 
 💻 - [wwww.srijansaha.tech](https://www.srijansaha.tech/)
-📨 - [contact@srijansaha.tech](mailto:contact@srijansaha.tech)
+📨 - [srijan.primary@gmail.com](mailto:srijan.primary@gmail.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=srijansahaa)
