@@ -21,10 +21,11 @@ I am a __developer__ and a __designer__. Well versed in the skills listed below:
 3. HTML5/CSS3
 4. Bootstrap
 5. Tailwind CSS
+6. UI/UX Design
 
 I have worked on many frontend devlopement projects. Interested to know more? 😄
 
-💻 - [wwww.srijansaha.tech](https://www.srijansaha.tech/)
+💻 - [wwww.srijansaha.live](https://www.srijansaha.live/)
 📨 - [srijan.primary@gmail.com](mailto:srijan.primary@gmail.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=srijansahaa)
