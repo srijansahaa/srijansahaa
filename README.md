@@ -25,6 +25,7 @@ I am a __developer__ and a __designer__. Well versed in the skills listed below:
 7. UI/UX Design
 
 I have worked on many frontend devlopement projects. Interested to know more? 😄
+
 📨 - [srijan.primary@gmail.com](mailto:srijan.primary@gmail.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=srijansahaa)
