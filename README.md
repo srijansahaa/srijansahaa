@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 I am a __developer__ and a __designer__. Well versed in the skills listed below:
 1. Next JS
 2. React JS
-3. HTML5/CSS3
-4. Bootstrap
-5. Tailwind CSS
-6. UI/UX Design
+3. Typescript
+4. HTML5/CSS3
+5. Bootstrap
+6. Bootstrap ,Tailwind CSS, Ant Design, Material UI
+7. UI/UX Design
 
 I have worked on many frontend devlopement projects. Interested to know more? 😄
-
-💻 - [wwww.srijansaha.live](https://www.srijansaha.live/)
-📨 - [contact@srijansaha.live](mailto:contact@srijansaha.live)
+📨 - [srijan.primary@gmail.com](mailto:srijan.primary@gmail.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=srijansahaa)
